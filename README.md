@@ -87,3 +87,7 @@ Added subtle dark mode star and meteor animations.
 
 Removed eslint config
 
+## GitHub Pages Deployment
+
+- [Astro docs - Deploy your Astro Site to GitHub Pages](https://docs.astro.build/en/guides/deploy/github/)
+- [namecheap - How do I link my domain to GitHub Pages](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/)
