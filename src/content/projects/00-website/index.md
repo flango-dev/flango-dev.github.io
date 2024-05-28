@@ -5,7 +5,6 @@ date: "May 28 2024"
 draft: false
 tags:
 - Meta
-demoUrl: https://flango-dev.github.io
 repoUrl: https://github.com/flango-dev/flango-dev.github.io
 ---
 
