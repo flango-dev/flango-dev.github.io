@@ -1,16 +1,17 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "Flango website"
+summary: "This website"
+date: "May 28 2024"
 draft: false
 tags:
-- Astro
-- Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- Meta
+demoUrl: https://flango-dev.github.io
+repoUrl: https://github.com/flango-dev/flango-dev.github.io
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+The Flango website as primary entry point into the project is alive.
+
+- Communicates to potentially interested people what the project is about (Home).
+- Summarizes changes to the project like e.g. new pattern example implementations in a changelog kind of style (Work).
+- Informs about meta data like e.g. notifiers about new pattern example implementations, reasons for the current tech stack, ... (Blog).
+- References GitHub repositories and future live demos of example applications (Projects).
